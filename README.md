@@ -20,16 +20,13 @@ cd simple-fsm
 mvn clean install
 ```
 
-Then, include the generated JAR file in your project manually.
+Then, manually include the generated JAR file in your project.
 
 ## Contributing
-We welcome contributions! Feel free to submit pull requests, open issues, or suggest improvements.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+We welcome contributions! Please feel free to submit pull requests, open issues, or suggest any improvements.
 
 ## Contact
-For questions or suggestions, reach out via GitHub Issues or email `your.email@example.com`.
+For questions or suggestions, reach out via GitHub Issues or email `a19101996@gmail.com`.
 
 ---
 
